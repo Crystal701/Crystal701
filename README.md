@@ -9,4 +9,4 @@ I enjoy making ideas and webpages come to life.
 🖌 Affinity Photo | Sketch | InVision | Webflow <br />
 
 ## Examples of Work
-<img src="https://github.com/Crystal701/Crystal701/blob/main/razorv2.gif" width="1000" >
+<img src="https://github.com/Crystal701/Crystal701/blob/main/razorv2.gif" width="800" >
