@@ -2,8 +2,8 @@
 I enjoy making ideas and webpages come to life.
 
 ## Languages and dev tools
-🟧 Svelte, SvelteKit
-✨ Tailwind, Bulma, Bootstrap
-🖥️ HTML, CSS, JS
-🌐 Vercel, Github Pages
-🖌 Affinity Photo, Sketch, InVision, Webflow
+🟧 Svelte, SvelteKit__
+✨ Tailwind, Bulma, Bootstrap__
+🖥️ HTML, CSS, JS__
+🌐 Vercel, Github Pages__
+🖌 Affinity Photo, Sketch, InVision, Webflow__
