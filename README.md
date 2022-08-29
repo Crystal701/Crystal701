@@ -10,5 +10,5 @@ I enjoy making ideas and webpages come to life.
 
 ## Examples of Work
 <a href="https://github.com/Crystal701/razors-ecommerce">
-  <img src="https://github.com/Crystal701/Crystal701/blob/main/razor-compressed.gif" style="min-width:500px; max-width:800px;" >
+  <img src="https://github.com/Crystal701/Crystal701/blob/main/razor-compressed.webm" style="min-width:500px; max-width:800px;" >
 </a>
